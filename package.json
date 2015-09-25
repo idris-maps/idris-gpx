@@ -1,0 +1,20 @@
+{
+  "name": "idris-gpx",
+  "version": "0.0.0",
+  "description": "Convert GPX to GeoJSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "GPX",
+    "GeoJSON"
+  ],
+  "author": "idris-maps.com",
+  "license": "GPL",
+  "dependencies": {
+    "xmldoc": "~0.3.2",
+    "turf-distance": "~1.0.1",
+    "moment": "~2.10.6"
+  }
+}
