@@ -1,6 +1,6 @@
 {
   "name": "idris-gpx",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Convert GPX to GeoJSON",
   "main": "index.js",
   "scripts": {
